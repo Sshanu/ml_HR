@@ -9,6 +9,8 @@ For using Sublime Text Editor as Editor in git:
 		git config --global push.default upstream
 		git config --global merge.conflictstyle diff3
 	3) Restart the git bash
+	
+	
 Clone the ml_HR repository:
 	git clone https://github.com/Sshanu/ml_HR.git
 
