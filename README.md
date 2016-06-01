@@ -24,9 +24,10 @@ Clone the ml_HR repository:
 For setting up repository:
 
 	git init
+	
 Adding remote:
 
-	git remote add origin https://github.com/Sshanu/ml_HR.git
+	git remote add <remote_name>  <url>
 	
 Checking remote:
 
@@ -52,3 +53,28 @@ For checking different branches:
 
 	git checkout <branch name>
 	
+For Checking out file:
+	
+	git checkout <file name>
+
+For Checking out commit:
+
+	git checkout <commit>
+	
+For undoing the changes:
+
+	git revert <commit>
+	
+For Fetching changes to local repository:
+
+	git fetch <remote> <branch>
+	
+For pulling or Merging changes into local repository:
+
+	git pull <remote> <branch>
+	
+For Pushing or Uploading Changes to Github:
+	
+	git push <remote> <branch>
+	
+
