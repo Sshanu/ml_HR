@@ -21,8 +21,14 @@ Checking remote:
 	git remote
 Saving changes:
 	git add <file>
-	git add -A           //For saving the whole the directory
+	git add -A             //For saving the whole the directory
 Commiting File:
 	git commit
 For checking status:
 	git status
+For checking history of commits:
+	git log
+	git log -n <limit>     // For displaying only limit commits
+For checking different branches:
+	git checkout <branch name>
+	
