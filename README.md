@@ -76,5 +76,5 @@ For pulling or Merging changes into local repository:
 For Pushing or Uploading Changes to Github:
 	
 	git push <remote> <branch>
-	
+Hey! Git is awesome!
 
