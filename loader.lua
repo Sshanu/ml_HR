@@ -1,9 +1,26 @@
-al=require 'alllabel'
-an=require 'allnames'
+imgl=require 'src/imglabel'
+imgn=require 'src/imgname'
+hndl=require 'src/hndlabel'
+hndn=require 'src/hndname'
+fntl=require 'src/fntlabel'
+fntn=require 'src/fntname'
 ibt={}
-for i=1,#an do
-    img=image.load('English/Img/'..an[i]..'.png',1,'byte')
+hbt={}
+fbt={}
+for i=1,#imgn do
+    img=image.load('Data/Img/'..imgn[i]..'.png',1,'byte')
     ibt[i]=image.scale(img,50,50)
     end
-mnist = {size =#an, data =ibt, label = al}
+for i=1,#hndl do
+    img=image.load('Data/Hnd/'..hndn[i]..'.png',1,'byte')
+    hbt[i]=image.scale(img,50,50)
+    end
+for i=1,#fntl do
+    img=image.load('Data/Fnt/'..fntn[i]..'.png',1,'byte')
+    fbt[i]=image.scale(img,50,50)
+    end
+imgdat = {size=#imgn, data=ibt, label=imgl}
+hnddat = {size=#hndl, data=hbt, label=hndl}
+fntdat = {size=#fntl, data=fbt, label=fntl} 
+mnist={imgdat, hnddat, fntdat}
 return mnist
