@@ -21,6 +21,9 @@ for i=1,#fntl do
     end
 imgdat = {size=#imgn, data=ibt, label=imgl}
 hnddat = {size=#hndl, data=hbt, label=hndl}
-fntdat = {size=#fntl, data=fbt, label=fntl} 
-mnist={imgdat, hnddat, fntdat}
+fntdat = {size=#fntl, data=fbt, label=fntl}
+torch.save('imgdata.dat',imgdat)
+torch.save('hnddata.dat',hnddat)
+torch.save('fntdata.dat',fntdat)
+mnist={imgdat=imgdat, hnddat=hnddat, fntdat=fntdat}
 return mnist
