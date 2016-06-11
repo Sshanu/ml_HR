@@ -1,4 +1,5 @@
-Training Dataset link : https://drive.google.com/open?id=0B8bmgDbwE_77YjA1Zk1PVTFxQlU
+Link for imgdata.dat
+	https://drive.google.com/open?id=0B692TJyWNvPNeDNlTnI2QXVuMkE
 
 For installing Git on windows:
 
