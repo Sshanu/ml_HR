@@ -1,3 +1,7 @@
+Link for imgdata.dat:
+
+	https://drive.google.com/open?id=0B692TJyWNvPNeDNlTnI2QXVuMkE
+
 For installing Git on windows:
 
 	https://git-for-windows.github.io/
@@ -76,6 +80,5 @@ For pulling or Merging changes into local repository:
 For Pushing or Uploading Changes to Github:
 	
 	git push <remote> <branch>
-
 	
-Hey! Git is awesome!
+

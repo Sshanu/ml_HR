@@ -1,4 +1,4 @@
-names={'GoodImg/Bmp/Sample001/img001-00001';
+'GoodImg/Bmp/Sample001/img001-00001';
 'GoodImg/Bmp/Sample001/img001-00002';
 'GoodImg/Bmp/Sample001/img001-00003';
 'GoodImg/Bmp/Sample001/img001-00004';
@@ -12500,5 +12500,5 @@ names={'GoodImg/Bmp/Sample001/img001-00001';
 'BadImag/Bmp/Sample061/img061-00030';
 'BadImag/Bmp/Sample062/img062-00001';
 'BadImag/Bmp/Sample062/img062-00002';
-'BadImag/Bmp/Sample062/img062-00003'}
-return names
+'BadImag/Bmp/Sample062/img062-00003';
+'BadImag/Bmp/Sample062/img062-00003';;
