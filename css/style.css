@@ -1,0 +1,63 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	color: #747784;
+	font-weight: 300;
+	background-color: #090A0A;
+}
+.text-muted {
+	color: #BCBBBB;
+}
+.text-thin {
+	font-weight: 100;
+	font-family: 'Poiret One', cursive;
+}
+.text-group {
+	font-family: 'Oswald', sans-serif;
+}
+.title-super {
+	font-size: 60px;
+}
+.title-logo {
+	margin-top: 20px;
+}
+.code {
+	font-size: 40px;
+
+}
+.list-bullet {
+	font-size: 20px;
+}
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+@media (min-width: 768px) {
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
+}
+.text-margin {
+	padding-bottom: 15px;
+}
