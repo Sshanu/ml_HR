@@ -63,3 +63,8 @@ body {
 .text-margin {
 	padding-bottom: 15px;
 }
+.footer {
+	padding-top: 120px;
+	padding-bottom:5px;
+	font-size: 15px; 
+}
