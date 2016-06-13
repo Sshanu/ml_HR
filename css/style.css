@@ -8,24 +8,26 @@ body {
 	color: #BCBBBB;
 }
 .text-thin {
+	font-size: 35px;
 	font-weight: 100;
 	font-family: 'Poiret One', cursive;
 }
 .text-group {
 	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
 }
 .title-super {
-	font-size: 60px;
+	font-size: 44px;
 }
 .title-logo {
-	margin-top: 20px;
+	margin-top: 40px;
 }
 .code {
-	font-size: 40px;
+	font-size: 44px;
 
 }
 .list-bullet {
-	font-size: 20px;
+	font-size: 22px;
 }
 .col-xs-15,
 .col-sm-15,
