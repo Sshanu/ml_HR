@@ -6,13 +6,11 @@ Link for the data :
 
 iTORCH Notebook is used for implementation.
 
-Links for downloading iTorch Notebook:
+**Links for downloading iTorch Notebook:**
 
 	https://github.com/facebook/iTorch
 	
-cnn.ipynb 
 
-	Convolutional Neural Network
 	
 
 	
