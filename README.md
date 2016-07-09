@@ -1,6 +1,5 @@
 #Hand writing Recognition by Machine Learning 
-
-	Programming Club IIT Kanpur Summer Project
+Programming Club IIT Kanpur Summer Project
 
 Link for the data :
 
