@@ -12,19 +12,19 @@ iTORCH Notebook is used for implementation.
 
 	https://github.com/facebook/iTorch
 
-###Info
+###Information
 
-* [Predction.ipynb](https://github.com/Sshanu/ml_HR/blob/master/Predction.ipynb) - Prediction Algo
+* [Predction.ipynb](https://github.com/Sshanu/ml_HR/blob/master/Predction.ipynb) - Prediction Algorithm
 	
-* [cnn.ipynb](https://github.com/Sshanu/ml_HR/blob/master/cnn.ipynb) - 	Convolutional Neural Network based Algo
+* [cnn.ipynb](https://github.com/Sshanu/ml_HR/blob/master/cnn.ipynb) - 	Convolutional Neural Network based Algorithm
 
-* [cr.ipynb](https://github.com/Sshanu/ml_HR/blob/master/cr.ipynb) - Neural Network based Algo
+* [cr.ipynb](https://github.com/Sshanu/ml_HR/blob/master/cr.ipynb) - Neural Network based Algorithm
 
-* [loader.lua](https://github.com/Sshanu/ml_HR/blob/master/loader.lua) - Data creator
+* [loader.lua](https://github.com/Sshanu/ml_HR/blob/master/loader.lua) - Converts raw data into format that can be processed
 
-* [model.net](https://github.com/Sshanu/ml_HR/blob/master/model.net) - Model
+* [model.net](https://github.com/Sshanu/ml_HR/blob/master/model.net) - Neural network architecture
 
-* [segmenttion.ipynb](https://github.com/Sshanu/ml_HR/blob/master/segmentation.ipynb) - Segmentation Algo
+* [segmenttion.ipynb](https://github.com/Sshanu/ml_HR/blob/master/segmentation.ipynb) - Segmentation Algorithm
 
 
 	
