@@ -26,7 +26,7 @@ iTORCH Notebook is used for implementation.
 
 * [segmenttion.ipynb](https://github.com/Sshanu/ml_HR/blob/master/segmentation.ipynb) - Segmentation Algorithm
 
-
+For more information visit our [Ml_HR wiki](https://github.com/Sshanu/ml_HR/wiki)
 	
 
 	
